@@ -1,0 +1,7 @@
+[l4a-web]
+l4a-web01.orchestrabit.jp ec2_vpc_subnet_id=subnet-5a2d5902
+l4a-web02.orchestrabit.jp ec2_vpc_subnet_id=subnet-d298e7fa
+l4a-web03.orchestrabit.jp ec2_vpc_subnet_id=subnet-2912275f
+
+[l4a-db]
+l4a-db01.orchestrabit.jp ec2_vpc_subnet_id=subnet-5a2d5902
